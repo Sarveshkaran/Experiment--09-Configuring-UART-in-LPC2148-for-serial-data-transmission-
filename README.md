@@ -1,7 +1,9 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
 Name :	Sarveshkaran vk
+
 Roll no : 212221230089
+
 Date of experiment : 24-11-22
 
 Date: 24-11-22
